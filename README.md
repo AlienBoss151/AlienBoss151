@@ -11,8 +11,9 @@ AlienBoss151/AlienBoss151 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 THE PROJECT JOURNEY OF CARLOS EXCHANGE & TRIBOWL NETWORK
-The Project Owner
-My name is Onwuka Somtochukwu, also known as Lord Carlos, AlienBoss, or Owl Himself. I am the founder and owner of the Tribowl Network. Hailing from Enugu State, Nigeria, I have a passion for creating unique and challenging projects. My journey began in 2021 with CarlosExchange, and I have since expanded my vision to establish a larger model aimed at providing financial independence and accessibility to money creation for the majority.
+
+The Project Owner:
+My name is Onwuka Somtochukwu, also known as Lord Carlos.. D AlienBoss,, I call myself " Owl Himself. I am the founder and owner of the Tribowl Network. Hailing from Enugu State, Nigeria, I have a passion for creating unique and challenging projects. My journey began in 2021 with CarlosExchange, and I have since expanded my vision to establish a larger model aimed at providing financial independence and accessibility to money creation for the majority.
 
 Despite the challenges and lack of resources, I have persevered, driven by the belief that money, like cryptocurrency, is created by man. This belief has fueled my ambition to develop the Tribowl Network, a project that I have been working on since mid-2022. With the help of AI tools like Microsoft Copilot, ChatGPT, and DeepAI, I have dedicated over a year and eight months to this project, often isolating myself from social media to focus on my work.
 
